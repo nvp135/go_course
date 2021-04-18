@@ -1,0 +1,3 @@
+go test
+go mod init example.com/hello
+go mod init pkg
